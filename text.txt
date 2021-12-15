@@ -1,0 +1,17 @@
+0:Dragon_born (A race that has a draconic ansestor causing them to apear like dragons standing among mortals +2 STR +1 CHAR)
+
+1:Dwarves (Bold and hardy small folk who are masters of stone earth and minerals they are great trade craftsmen +2 CON)
+
+2:Elves (Magical people of otherworldy grace living nearly endless lives there are many different sub races of the elves +2 DEX)
+
+3:Gnome (Another small folk but with bounds of energy and enthusiam for living far surpassing other races they're smart +2 INT)
+
+4:Half_elf (A mixture of a human and elf parent equals a Half elf +2 CHAR +1 to two other ability scores)
+
+5:Half_orc (A mixture of a human and orc parent creates the Half_orcs a strong and durable people +2 STR +1 CON)
+
+6:Halflings (Another small folk who survive in the world by avoiding notice or avoiding fights they are very lucky +2 DEX)
+
+7:Humans (A very adaptable race built for survival in all conditions, they are like normal humans +1 to all ability scores)
+
+8:Tieflings (A race of partial Devil folk often seen as evil due to their appearance forever mistrusted +2 CHAR +1 INT)
